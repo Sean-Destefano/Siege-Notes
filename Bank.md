@@ -1,8 +1,6 @@
 ---
 share: "true"
 ---
-
-
 CEO
 	Hibana Long hall rappel trick
 	Rest Square take (stock for cross?)
