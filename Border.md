@@ -3,6 +3,7 @@ share: "true"
 ---
 
 Armory
+	1 Hbreach
 	Clear from east stairs into Security (SMART!)
 	Open offices wall from east, then archives wall from office window
 		Play for plant, 1 rotate to archives window

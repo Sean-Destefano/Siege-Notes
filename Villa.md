@@ -15,4 +15,9 @@ Statue
 	Gain bathroom control, see above for help
 	Come up astro stairs and out bathroom same time to take astro
 	From astro hold trophy, then master walk in and plant close to door
+Kitchen
+	2 vert
+	3 master baclony, 1 astro rappel, last help where needed
+	Upstairs - clear upstairs, hold landing/90, then vert
+	Defuser goes pantry, 1 pantry window, walk in and plant kitchen bomb
 	

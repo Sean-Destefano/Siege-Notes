@@ -13,4 +13,10 @@ Kitchen
 	All roamclear upstairs, split between VIP and Aqua
 	Open vert, literally sit on rotations via virt holes
 	Plant via Kitchen window
-	
+
+Theatre
+	Hbreach, EMP, Buck
+	3 VIP, Buck service, 1 Penthouse window
+	Vip - clear VIP, HoF
+	Buck - vert below penthouse
+	Window - Smoke and plant
