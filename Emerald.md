@@ -15,3 +15,10 @@ Art
 	Open admin into meeting
 	Library 2-3 pressuring painting from library
 	Plant behind SE pillar wall from admin
+Kitchen
+	2 vert, hbreach, emp
+	Hbreach pantry wall, 3 upstairs to storage/art
+	Hbreach - 1 stay play breach/window, other rotate up to help
+	Upstairs - Clear vault, archives, library, gallery, orange, meeting, ceo (mid-west side of map), then vert
+	2 players down orange, open wall into dining and plant
+	
