@@ -13,11 +13,11 @@ Workshop
 	1 Rotate to site window, sit 1 outside main door
 		plant from window, watch from vert
 Bathroom
+	1 Hbreach
 	Split offices / armoury takes
 		Armoury takes security first
 		Offices takes archives
 	Then just virt
-	2 frontdoor to server/workshop
-		Hard breach into bathroom (plant)
+	Execute - 1 mez, 2 drop bathroom and plant
 		
 		
