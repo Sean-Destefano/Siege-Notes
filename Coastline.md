@@ -23,3 +23,5 @@ Theatre
 	Vip - clear VIP, HoF
 	Buck - vert below penthouse
 	Window - Smoke and plant
+	New Notes -
+		Buck solo hard, maybe nomad to hold roams?
